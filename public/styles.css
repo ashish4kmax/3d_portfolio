@@ -1,0 +1,15 @@
+* {
+  align-items: center;
+  background-color: #1f2937;
+}
+
+body {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+    color: white;
+}
+
+img {
+    margin-bottom: 150px;
+}
