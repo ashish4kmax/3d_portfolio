@@ -235,23 +235,6 @@ const projects = [
     image: tripguide,
     source_code_link: "https://github.com/ashish4kmax/SnakeGame",
   },
-  {
-    name: "Youtube Thumbnails",
-    description:
-      "Has created great thumbnails for self and other clients and there are several different types of thumbnials for great repo of thumbnails.",
-    tags: [
-      {
-        name: "canva",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "adobe photoshop",
-        color: "green-text-gradient",
-      },
-    ],
-    image: thumbnail,
-    source_code_link: "thumbnails.html",
-  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
