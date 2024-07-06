@@ -235,6 +235,27 @@ const projects = [
     image: tripguide,
     source_code_link: "https://github.com/ashish4kmax/SnakeGame",
   },
+  {
+    name: "Life-Under-Water",
+    description:
+      "Life Under Water is basically is a bootstrap-tailwind based website used to create awarness among poeple about the sdg that is sustainable devlopment growth and one of it's important goal's which is this topic that is to create awarness about the marine life and how to protect them.",
+    tags: [
+      {
+        name: "html,css,js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "bootstrap",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwindcss,jquery",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: thumbnail,
+    source_code_link: "https://github.com/ashish4kmax/LifeOnWater.github.io",
+  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
